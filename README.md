@@ -16,7 +16,7 @@ Performed time-series analysis of 100+ years of climate data. Visualized tempera
 ### 2.  [Machine Learning Zoomcamp](https://github.com/GretteThel/machine-learning-zoomcamp)
 **Tools:** Jupyter, Scikit-learn, NumPy, Pandas  
 **Description:**  
-Completed an intensive ML course including projects on linear regression, classification, feature engineering, and deployment. Includes hands-on practice notebooks.
+Completing an intensive ML course including projects on linear regression, classification, feature engineering, and deployment. Includes hands-on practice notebooks.
 
 ---
 
@@ -37,7 +37,7 @@ Hands-on notebook demonstrating NoSQL concepts using MongoDB. Included database 
 ### 5.  [Data Engineering Zoomcamp](https://github.com/GretteThel/data-engineering-zoomcamp)
 **Tools:** Python, SQL, Docker, Airflow  
 **Description:**  
-Worked on real-world data engineering concepts like data ingestion, orchestration, warehousing, and transformation. Practiced building pipelines and managing large datasets.
+Working on real-world data engineering concepts like data ingestion, orchestration, warehousing, and transformation. Practiced building pipelines and managing large datasets.
 
 ---
 
