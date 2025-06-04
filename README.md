@@ -60,6 +60,50 @@ Worked as an AI Trainer contributing to the training and alignment of large lang
 - Participated in structured QA processes for RLHF tasks using internal annotation tools.
 
 
+##  Additional Projects
+
+### 7. Redis Practice  
+**Tools:** Jupyter Notebook, Redis  
+**Description:**  
+Practiced key-value data operations using Redis. Focused on data persistence, expiration, and real-time retrieval patterns.
+
+---
+
+### 8. Generative AI (Google Cloud Vertex AI)  
+**Tools:** Jupyter Notebook, Vertex AI  
+**Description:**  
+Explored generative AI APIs using Gemini on Google Cloud. Hands-on code examples included text generation and cloud-based notebook deployment.
+
+---
+
+### 9. Databases & SQL for Data Science  
+**Tools:** SQL, Jupyter  
+**Description:**  
+Covered relational databases and SQL queries using Python. Includes real-world query examples and database schema design.
+
+---
+
+### 10. Linux Command Line  
+**Tools:** Bash, Shell  
+**Description:**  
+Followed hands-on learning path for Linux command line tools, file management, and shell scripting.
+
+---
+
+### 11. IBM Data Analytics Capstone  
+**Tools:** Excel, Python, Jupyter  
+**Description:**  
+Completed the capstone project from IBM SkillsBuild, performing EDA and visual storytelling with business datasets.
+
+---
+
+### 12. Python for AI & Data Science (IBM)  
+**Tools:** Python, Jupyter  
+**Description:**  
+Covered Python basics, control flow, data structures, and popular libraries for data analysis.
+
+
+
 **Let’s Connect:**  
 I’m open to collaboration, feedback, or mentorship. Feel free to explore the repos and reach out via GitHub or [LinkedIn](https://linkedin.com/in/grethelm). 
 
