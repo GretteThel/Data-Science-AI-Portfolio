@@ -13,10 +13,10 @@ Performed time-series analysis of 100+ years of climate data. Visualized tempera
 
 ---
 
-### 2.  [Machine Learning Zoomcamp](https://github.com/GretteThel/machine-learning-zoomcamp)
-**Tools:** Jupyter, Scikit-learn, NumPy, Pandas  
+### 2. [AWS DNB Humanitec Workshop](https://github.com/GretteThel/-AWS-DNB-Humanitec-Platform-Engineering)
+**Tools:** AWS, Shell  
 **Description:**  
-Completing an intensive ML course including projects on linear regression, classification, feature engineering, and deployment. Includes hands-on practice notebooks.
+Attended an industry event focused on platform engineering using AWS + Humanitec. Took workshop notes and tested sample deployment scripts and workflows.
 
 ---
 
@@ -40,11 +40,10 @@ Hands-on notebook demonstrating NoSQL concepts using MongoDB. Included database 
 Working on real-world data engineering concepts like data ingestion, orchestration, warehousing, and transformation. Practiced building pipelines and managing large datasets.
 
 ---
-
-### 6. [AWS DNB Humanitec Workshop](https://github.com/GretteThel/-AWS-DNB-Humanitec-Platform-Engineering)
-**Tools:** AWS, Shell  
+### 6.  [Machine Learning Zoomcamp](https://github.com/GretteThel/machine-learning-zoomcamp)
+**Tools:** Jupyter, Scikit-learn, NumPy, Pandas  
 **Description:**  
-Attended an industry event focused on platform engineering using AWS + Humanitec. Took workshop notes and tested sample deployment scripts and workflows.
+Completing an intensive ML course including projects on linear regression, classification, feature engineering, and deployment. Includes hands-on practice notebooks.
 
 ---
 
