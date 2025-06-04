@@ -47,6 +47,19 @@ Completing an intensive ML course including projects on linear regression, class
 
 ---
 
+### 7. RLHF & AI Trainer Contributions (Outlier | Hopper V2 & Kepler V2)
+
+*Note: Due to platform confidentiality, source code and prompts are not publicly available.*
+
+Worked as an AI Trainer contributing to the training and alignment of large language models (LLMs) through Reinforcement Learning from Human Feedback (RLHF). Projects included prompt creation, output ranking, and quality review for models like those used in Hopper V2 and Kepler V2.
+
+**Key Responsibilities:**
+- Crafted high-quality prompts targeting model weaknesses in programming and logic.
+- Reviewed AI-generated responses for correctness, truthfulness, and localization accuracy.
+- Performed linguistic and functional evaluations to support model fine-tuning and alignment.
+- Participated in structured QA processes for RLHF tasks using internal annotation tools.
+
+
 **Let’s Connect:**  
 I’m open to collaboration, feedback, or mentorship. Feel free to explore the repos and reach out via GitHub or [LinkedIn](https://linkedin.com/in/grethelm). 
 
